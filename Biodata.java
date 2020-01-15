@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Biodata {
 
     public static void main(String[] args) {
-        //deklarasi vriable
+        //deklarasi veriable
         String Nama;
         String Nim;
         String Kelas;
