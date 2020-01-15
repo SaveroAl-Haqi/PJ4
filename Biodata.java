@@ -1,4 +1,4 @@
-/**/
+/*Gekkgaf*/
 import java.util.Scanner;
 
 public class Biodata {
