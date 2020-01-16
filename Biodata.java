@@ -16,7 +16,7 @@ public class Biodata {
         Scanner input_bio=new Scanner (System.in);
         //nama
         System.out.print("Nama:");
-        Nama="Soleh";
+        Nama="Riyan";
         //nim
         System.out.print("Nim:");
         Nim="1917";
@@ -31,7 +31,7 @@ public class Biodata {
         Gender="Laki";
 	//NoTelepon
         System.out.print("NoTelepon:");
-        NoTelepon="021000001";
+        NoTelepon="0217232";
         //cetak nama, nim, kelas, dan alamat
         System.out.println("Nama"+Nama);
         System.out.println("Nim"+Nim);
