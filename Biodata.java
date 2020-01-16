@@ -22,7 +22,7 @@ public class Biodata {
         Nim="1917";
         //Kelas
         System.out.print("Kelas:");
-        Kelas="11";
+        Kelas="12";
         //Alamat
         System.out.print("Alamat:");
         Alamat="Jakarta";
